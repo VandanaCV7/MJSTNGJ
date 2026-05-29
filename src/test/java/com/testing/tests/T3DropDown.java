@@ -13,6 +13,7 @@ import org.testng.annotations.Test;
 
 public class T3DropDown {
 
+	@Test
     public void dropDownStaticCurrency() throws InterruptedException {
 		WebDriver driver = new ChromeDriver();
 		
@@ -34,7 +35,7 @@ public class T3DropDown {
 		driver.close();
 	}
     
-    
+    @Test
 	public void dropDownStaticPassengers() throws InterruptedException {
 		WebDriver driver = new ChromeDriver();
 		

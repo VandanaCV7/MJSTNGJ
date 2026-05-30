@@ -10,7 +10,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.annotations.Test;
 
 public class T2Logout {
-	@Test
+	@Test(priority = 2)
     public void logoutTest() {
 
         WebDriver driver = new ChromeDriver();

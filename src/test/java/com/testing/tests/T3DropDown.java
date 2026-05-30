@@ -13,7 +13,7 @@ import org.testng.annotations.Test;
 
 public class T3DropDown {
 
-	@Test
+	@Test(priority = 3)
     public void dropDownStaticCurrency() throws InterruptedException {
 		WebDriver driver = new ChromeDriver();
 		
@@ -35,7 +35,7 @@ public class T3DropDown {
 		driver.close();
 	}
     
-    @Test
+    @Test(priority = 4)
 	public void dropDownStaticPassengers() throws InterruptedException {
 		WebDriver driver = new ChromeDriver();
 		
@@ -68,7 +68,7 @@ public class T3DropDown {
 		driver.findElement(By.id("btnclosepaxoption")).click();
 	}
     
-	@Test
+	@Test(priority = 5)
     public void dropDownDynamicDepartureCty() {
     	System.out.println("Bye");
     }

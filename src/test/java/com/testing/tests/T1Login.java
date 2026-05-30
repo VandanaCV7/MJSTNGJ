@@ -9,7 +9,7 @@ import org.testng.annotations.Test;
 
 public class T1Login {
 
-    @Test
+    @Test(priority = 1)
     public void loginTest() throws InterruptedException {
 
         WebDriver driver = new ChromeDriver();

@@ -70,6 +70,6 @@ public class T3DropDown {
     
 	@Test
     public void dropDownDynamicDepartureCty() {
-    	
+    	System.out.println("Bye");
     }
 }

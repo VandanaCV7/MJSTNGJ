@@ -71,5 +71,6 @@ public class T3DropDown {
 	@Test(priority = 5)
     public void dropDownDynamicDepartureCty() {
     	System.out.println("Bye");
+    	System.out.println("Test priotitising");
     }
 }

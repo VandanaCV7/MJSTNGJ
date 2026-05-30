@@ -1,25 +1,6 @@
 # MJSTNGJ stands for MAVEN JAVA SELENIUM TEST-NG Jenkins repositoryyyyyy!
 
-Coded as structured as possible, so find in the "src>test/java/com/testing/tests"
-
-Wanna know the folder structure of POM POM file? 
-  yes - Check Resources>POM_Complete_GUIDE
-  No - why dont you wanna know???? 
-
-Wanna know the folder structure of testng.xml file? 
-  yes - Check Resources>testNG_Complete_GUIDE
-  No - hmph????😏
-
-Thats all for now..
-
-soon i will add jenkins details also... hehehe😈
-
-
-**M**aven + **J**ava + **S**elenium + **T**estNG + **J**enkins Repositoryyyyyy! 😎
-
-Coded as structured as possible, so find the test classes here:
-
-```text
+Coded as structured as possible, so find in 
 src
 └── test
     └── java
@@ -27,6 +8,17 @@ src
             └── testing
                 └── tests
 
+Wanna know the folder structure of the POM POM file? 
+  Yes - Check Resources>POM_Complete_GUIDE
+  No - why don't you wanna know???? 
+
+Wanna know the folder structure of the testng.xml file? 
+  Yes - Check Resources>testNG_Complete_GUIDE
+  No - hmph????😏
+
+That's all for now.
+
+Soon I will add Jenkins details also... hehehe😈
 
 ## 🧪 Tech Stack
 
@@ -38,16 +30,6 @@ src
 * Git
 * GitHub
 
----
+Interesting skills are unlocking soon 😜
 
-
-## 😈 Coming Soon
-
-* Jenkins Setup Guide
-* GitHub Webhook Integration
-* Maven Framework Enhancements
-* Page Object Model (POM)
-* Reports & Screenshots
-* CI/CD Pipeline
-
-
+That's all now!!
